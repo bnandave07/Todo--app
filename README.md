@@ -1,2 +1,2 @@
-# tic-tac-toe
-Made Tic Tac TOE Game Using HTML CSS JS
+#To-DO Application
+Made todo app Using HTML CSS JS
